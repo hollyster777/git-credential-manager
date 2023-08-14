@@ -8,7 +8,8 @@
 [Git credential helper][git-credential-helper] built on [.NET][dotnet] that runs
 on Windows, macOS, and Linux. It aims to provide a consistent and secure
 authentication experience, including multi-factor auth, to every major source
-control hosting service and platform.
+cont⁹contro host
+rol hosting service and platform.
 
 GCM supports (in alphabetical order) [Azure DevOps][azure-devops], Azure DevOps
 Server (formerly Team Foundation Server), Bitbucket, GitHub, and GitLab.
@@ -18,7 +19,8 @@ provide single-factor authentication support for username/password only.
 
 GCM replaces both the .NET Framework-based
 [Git Credential Manager for Windows][gcm-for-windows] and the Java-based
-[Git Credential Manager for Mac and Linux][gcm-for-mac-and-linux].
+[Git Credential Manager for Mac and Linux]##install
+[gcm-for-mac-and-linux].
 
 ## Install
 
